@@ -1,3 +1,4 @@
+
 package Practica1.resolucion;
 
 public class Fraccion {
