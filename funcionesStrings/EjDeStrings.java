@@ -1,6 +1,4 @@
 package funcionesStrings;
-import java.util.Scanner;
-@SuppressWarnings("resource")
 
 public class EjDeStrings {
 	public static void main(String[] args) {
